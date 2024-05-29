@@ -1,0 +1,20 @@
+.longtext {
+  padding: 25px;
+  border: 2px solid;
+  border-color: black;
+  margin: 30px;
+}
+
+.navbar {
+  background-color: #ced4da;
+}
+
+h1 span {
+  color: #000000; !important
+}
+
+.navbar-toggler {
+  border: 2px solid;
+  border-color: black;
+}
+
